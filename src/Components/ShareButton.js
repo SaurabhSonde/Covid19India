@@ -31,7 +31,7 @@ className="btn-floating blue">
 
 <div id="modal1" className="modal" style={{textAlign:"center"}}> <div className="modal-content"> <h4>Report Bug!</h4> 
    <p>Let me know if there is any issue in app.</p>
-<p>Click the above button to report your issue.</p>
+<p>Click the below button to report your issue.</p>
 
 <div className="modal-footer" style={{textAlign:"center"}}>
  <a href="mailto:saurabhsonde111@gmail.com" className="modal-close waves-effect waves-green btn blue-grey">Report</a> 
