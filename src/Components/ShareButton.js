@@ -17,7 +17,7 @@ className="btn-floating blue">
  <i className="material-icons">mail</i></a>
  </li>
   <li>
-  <a href="whatsapp://send?text=gmsil" className="btn-floating orange">
+  <a href="whatsapp://send?text=https://trackthecovid19.netlify.app/" className="btn-floating orange">
   <i className="material-icons">share</i></a>
   </li> 
   <li>
