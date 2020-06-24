@@ -13,7 +13,7 @@ const Footer = () => {
 	    <a href="fb://facewebmodal/f?href=https://www.facebook.com/saurabh.sonde.52" style={{paddingRight:"25px",color:"#ffffff",textAlign:"center"}}>
 		 <FontAwesomeIcon icon={faFacebookF} />
 		 </a>
-		 <a href="instagram://user?username=saurabh_07.py" style={{paddingRight:"20px",color:"#ffffff",textAlign:"center"}}>
+		 <a href="instagram://user?username=iamsaurabh.dev" style={{paddingRight:"20px",color:"#ffffff",textAlign:"center"}}>
 		 <FontAwesomeIcon icon={faInstagram} />
 		 </a>
 		  <a href="https://github.com/saurabhsonde" style={{paddingRight:"10px",color:"#ffffff",textAlign:"center"}}>
